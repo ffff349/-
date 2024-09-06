@@ -1,0 +1,3 @@
+[submodule "CPlusPlusThings"]
+	path = CPlusPlusThings
+	url = https://github.com/Light-City/CPlusPlusThings.git
